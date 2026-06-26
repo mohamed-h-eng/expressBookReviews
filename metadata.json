@@ -1,0 +1,6 @@
+{
+  "name": "Scriptorium",
+  "description": "A MERN stack bookstore application featuring user authentication, book search by ISBN, author, and title, review management, and an interactive assignment helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
